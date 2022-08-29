@@ -1,0 +1,8 @@
+[book]
+authors = ["OS Community"]
+language = "zh"
+src = "src"
+title = "Ideas of OS Community"
+
+[build]
+build-dir = "book"

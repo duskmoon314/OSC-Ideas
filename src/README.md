@@ -20,6 +20,6 @@
 
 下图是一个参与流程的示意图：
 
-![参与流程](./src/assets/flow.excalidraw.png)
+![参与流程](assets/flow.excalidraw.png)
 
 现在从参与 [讨论](https://github.com/OS-Community/Ideas/discussions) 开始吧！
